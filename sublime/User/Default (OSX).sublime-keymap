@@ -1,0 +1,7 @@
+[{
+    "keys": ["ctrl+f2"],
+    "command": "gitlab_browse"
+},{
+    "keys": ["ctrl+f4"],
+    "command": "wayfair_codechecker"
+}]
